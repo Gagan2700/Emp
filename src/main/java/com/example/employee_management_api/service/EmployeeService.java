@@ -12,8 +12,8 @@ public class EmployeeService {
 
     // Constructor to mock initial data
     public EmployeeService() {
-        employees.add(new Employee(1, "Senthur", "DevOps", 50000));
-        employees.add(new Employee(2, "John", "Testing", 45000));
+        employees.add(new Employee(1, "Senthur", "DevOps", 40000));
+        employees.add(new Employee(2, "John", "Testing", 25000));
     }
 
     // Method to return all employees
